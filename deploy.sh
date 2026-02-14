@@ -6,6 +6,14 @@ set -euo pipefail
 #   NETLIFY_AUTH_TOKEN
 #   NETLIFY_SITE_ID
 
+# Optional: load local env vars if present.
+if [[ -f .env.local ]]; then
+  set -a
+  # shellcheck disable=SC1091
+  source .env.local
+  set +a
+fi
+
 if [[ -z "${NETLIFY_AUTH_TOKEN:-}" ]]; then
   echo "Missing NETLIFY_AUTH_TOKEN" >&2
   exit 1
