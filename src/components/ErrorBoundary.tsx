@@ -21,7 +21,11 @@ export class ErrorBoundary extends React.Component<
         this.props.fallback ?? (
           <div className="card" role="alert">
             <div className="sectionTitle">Something went wrong</div>
-            <div className="muted">Try reloading the page.</div>
+            <div className="muted">Try reloading the page, or open the library.</div>
+            <div style={{ paddingTop: 12, display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+              <a className="select" href="/library">Go to /library</a>
+              <a className="select" href="/">Reload</a>
+            </div>
           </div>
         )
       );

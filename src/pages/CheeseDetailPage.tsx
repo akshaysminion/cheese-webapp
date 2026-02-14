@@ -35,8 +35,8 @@ export function CheeseDetailPage() {
           <h1 className="title" style={{ fontSize: 22 }}>Cheese not found</h1>
           <p className="subtitle">That cheese doesn’t exist in the local dataset.</p>
           <div style={{ paddingTop: 10 }}>
-            <Link className="link" to="/">
-              ← Back to list
+            <Link className="link" to="/library">
+              ← Back to library
             </Link>
           </div>
         </Card>
@@ -54,7 +54,7 @@ export function CheeseDetailPage() {
             {cheese.region ? ` • ${cheese.region}` : ''}
           </p>
         </div>
-        <Link className="link" to="/">
+        <Link className="link" to="/library">
           ← All cheeses
         </Link>
       </header>
