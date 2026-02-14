@@ -1,6 +1,8 @@
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { AnimatedNumber } from '../components/AnimatedNumber';
 import { Card } from '../components/Card';
+import { CheeseHero3D } from '../components/CheeseHero3D';
 import { SearchInput } from '../components/SearchInput';
 import { Select } from '../components/Select';
 import { Tag } from '../components/Tag';
@@ -65,12 +67,14 @@ export function CheeseListPage() {
       <header className="header">
         <div>
           <h1 className="title">Cheese Library</h1>
-          <p className="subtitle">
-            Search and filter a local, curated cheese dataset.
-          </p>
+          <p className="subtitle">Search and filter a local, curated cheese dataset.</p>
         </div>
-        <div className="muted">{filtered.length} results</div>
+        <div className="muted">
+          <AnimatedNumber value={filtered.length} /> results
+        </div>
       </header>
+
+      <CheeseHero3D />
 
       <div className="controls">
         <SearchInput value={query} onChange={setQuery} placeholder="Name, region, pairings…" />
@@ -85,7 +89,7 @@ export function CheeseListPage() {
       <div className="grid">
         {filtered.map((c) => (
           <Link key={c.id} className="cardLink" to={`/cheese/${c.id}`}>
-            <Card>
+            <Card interactive>
               <div className="cardHeader">
                 <div>
                   <div className="cardTitle">{c.name}</div>
