@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "parmigiano-reggiano",
+    "name": "Parmigiano Reggiano",
+    "country": "Italy",
+    "region": "Emilia-Romagna (and parts of Lombardy)",
+    "milkType": "Cow",
+    "texture": "Hard",
+    "agingTime": "12–36+ months",
+    "flavorNotes": [
+      "umami",
+      "brothy",
+      "nutty",
+      "pineapple-like sweetness",
+      "salty finish"
+    ],
+    "aroma": "toasted nuts, browned butter",
+    "rindType": "Natural (thick, oiled)",
+    "pasteType": "Cooked, pressed",
+    "fatPercent": 32,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Lambrusco",
+        "Chianti Classico",
+        "dry sparkling wine"
+      ],
+      "beer": [
+        "Belgian dubbel",
+        "brown ale"
+      ],
+      "fruit": [
+        "pear",
+        "fig",
+        "grapes"
+      ],
+      "bread": [
+        "crusty sourdough",
+        "grissini"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Wrap in parchment then a loose plastic bag; refrigerate. Avoid airtight sealing to reduce sweating.",
+    "servingSuggestions": "Serve at room temp; shave over salads/pasta; pair with balsamic and pears."
+  },
+  {
+    "id": "pecorino-romano",
+    "name": "Pecorino Romano",
+    "country": "Italy",
+    "region": "Lazio / Sardinia",
+    "milkType": "Sheep",
+    "texture": "Hard",
+    "agingTime": "5–12 months",
+    "flavorNotes": [
+      "salty",
+      "sharp",
+      "peppery",
+      "tangy"
+    ],
+    "aroma": "sheepy, savory",
+    "rindType": "Natural",
+    "pasteType": "Pressed",
+    "fatPercent": 36,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Frascati",
+        "Vermentino",
+        "Montepulciano d'Abruzzo"
+      ],
+      "beer": [
+        "pilsner",
+        "Italian pale ale"
+      ],
+      "fruit": [
+        "apple",
+        "quince"
+      ],
+      "bread": [
+        "rustic country loaf",
+        "ciabatta"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Keep wrapped; refrigerate. If surface dries, trim before grating.",
+    "servingSuggestions": "Grate into cacio e pepe; shave with honey; excellent on roasted vegetables."
+  },
+  {
+    "id": "mozzarella-di-bufala",
+    "name": "Mozzarella di Bufala Campana",
+    "country": "Italy",
+    "region": "Campania",
+    "milkType": "Buffalo",
+    "texture": "Fresh",
+    "agingTime": "1–3 days (best very fresh)",
+    "flavorNotes": [
+      "lactic sweetness",
+      "buttery",
+      "clean",
+      "slightly tangy"
+    ],
+    "aroma": "fresh cream",
+    "rindType": "None",
+    "pasteType": "Pasta filata (stretched curd)",
+    "fatPercent": 24,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Falanghina",
+        "dry rosé",
+        "Prosecco"
+      ],
+      "beer": [
+        "witbier",
+        "light lager"
+      ],
+      "fruit": [
+        "tomato",
+        "peach"
+      ],
+      "bread": [
+        "focaccia",
+        "pane cafone"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Store in its liquid; refrigerate but serve at cool room temperature.",
+    "servingSuggestions": "Slice with tomatoes and basil; tear over pizza after baking; drizzle with olive oil."
+  },
+  {
+    "id": "burrata",
+    "name": "Burrata",
+    "country": "Italy",
+    "region": "Puglia",
+    "milkType": "Cow",
+    "texture": "Fresh",
+    "agingTime": "1–2 days (best very fresh)",
+    "flavorNotes": [
+      "rich",
+      "milky",
+      "buttery",
+      "sweet cream"
+    ],
+    "aroma": "fresh dairy",
+    "rindType": "None",
+    "pasteType": "Pasta filata shell with stracciatella filling",
+    "fatPercent": 30,
+    "pdoPgiStatus": null,
+    "pairings": {
+      "wine": [
+        "Verdicchio",
+        "dry sparkling"
+      ],
+      "beer": [
+        "pale lager",
+        "session IPA"
+      ],
+      "fruit": [
+        "tomato",
+        "strawberry",
+        "melon"
+      ],
+      "bread": [
+        "toasted sourdough",
+        "olive bread"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Refrigerate in container; eat same day or next day for best texture.",
+    "servingSuggestions": "Open at the table; add flaky salt, pepper, olive oil; serve with roasted tomatoes."
+  },
+  {
+    "id": "brie-de-meaux",
+    "name": "Brie de Meaux",
+    "country": "France",
+    "region": "Île-de-France",
+    "milkType": "Cow",
+    "texture": "Soft",
+    "agingTime": "4–8 weeks",
+    "flavorNotes": [
+      "mushroom",
+      "butter",
+      "hazelnut",
+      "gentle sweetness"
+    ],
+    "aroma": "earthy, champignon",
+    "rindType": "Bloomy rind (white mold)",
+    "pasteType": "Soft-ripened",
+    "fatPercent": 28,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Champagne",
+        "Chardonnay",
+        "light Pinot Noir"
+      ],
+      "beer": [
+        "saison",
+        "Belgian blond"
+      ],
+      "fruit": [
+        "apple",
+        "grapes"
+      ],
+      "bread": [
+        "baguette",
+        "brioche"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Keep in original paper or parchment; refrigerate. Let warm 45–60 min before serving.",
+    "servingSuggestions": "Serve as wedges; bake whole with garlic and herbs; add to sandwiches with ham."
+  },
+  {
+    "id": "camembert-de-normandie",
+    "name": "Camembert de Normandie",
+    "country": "France",
+    "region": "Normandy",
+    "milkType": "Cow",
+    "texture": "Soft",
+    "agingTime": "3–5 weeks",
+    "flavorNotes": [
+      "earthy",
+      "creamy",
+      "slightly funky",
+      "cabbage note when ripe"
+    ],
+    "aroma": "mushroom, cellar",
+    "rindType": "Bloomy rind (white mold)",
+    "pasteType": "Soft-ripened",
+    "fatPercent": 24,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "dry cider",
+        "Beaujolais",
+        "Chenin Blanc"
+      ],
+      "beer": [
+        "amber ale",
+        "farmhouse ale"
+      ],
+      "fruit": [
+        "pear",
+        "apple"
+      ],
+      "bread": [
+        "baguette",
+        "country bread"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Refrigerate; keep breathable wrap. If very ripe, eat promptly.",
+    "servingSuggestions": "Bake in the wooden box (lined) with thyme; serve with potatoes or crusty bread."
+  },
+  {
+    "id": "roquefort",
+    "name": "Roquefort",
+    "country": "France",
+    "region": "Aveyron",
+    "milkType": "Sheep",
+    "texture": "Blue",
+    "agingTime": "3–6 months",
+    "flavorNotes": [
+      "salty",
+      "piquant",
+      "sweet cream",
+      "peppery blue"
+    ],
+    "aroma": "sharp, cave-like, blue mold",
+    "rindType": "Natural",
+    "pasteType": "Blue-veined",
+    "fatPercent": 32,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Sauternes",
+        "Port",
+        "sweet Riesling"
+      ],
+      "beer": [
+        "barleywine",
+        "imperial stout"
+      ],
+      "fruit": [
+        "fig",
+        "pear",
+        "grapes"
+      ],
+      "bread": [
+        "walnut bread",
+        "pain de campagne"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Wrap loosely in foil or blue-cheese paper; refrigerate. Keep separate (strong aroma).",
+    "servingSuggestions": "Crumble into salads; melt into sauce for steak; pair with honey and walnuts."
+  },
+  {
+    "id": "gorgonzola-dolce",
+    "name": "Gorgonzola (Dolce)",
+    "country": "Italy",
+    "region": "Lombardy / Piedmont",
+    "milkType": "Cow",
+    "texture": "Blue",
+    "agingTime": "2–3 months",
+    "flavorNotes": [
+      "creamy",
+      "mild blue",
+      "sweet",
+      "buttery"
+    ],
+    "aroma": "gentle blue, dairy",
+    "rindType": "Natural",
+    "pasteType": "Blue-veined",
+    "fatPercent": 32,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Moscato",
+        "light red",
+        "dry sparkling"
+      ],
+      "beer": [
+        "porter",
+        "brown ale"
+      ],
+      "fruit": [
+        "pear",
+        "persimmon"
+      ],
+      "bread": [
+        "focaccia",
+        "walnut bread"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Keep wrapped; refrigerate. Bring to room temp for best creaminess.",
+    "servingSuggestions": "Spread on crostini; stir into risotto; pair with pears and toasted nuts."
+  },
+  {
+    "id": "cheddar-aged",
+    "name": "Aged Cheddar",
+    "country": "United Kingdom",
+    "region": "Somerset (style widely made)",
+    "milkType": "Cow",
+    "texture": "Hard",
+    "agingTime": "9–24 months",
+    "flavorNotes": [
+      "sharp",
+      "savory",
+      "caramel",
+      "crystalline crunch"
+    ],
+    "aroma": "nutty, tangy",
+    "rindType": "Clothbound or waxed (varies)",
+    "pasteType": "Pressed",
+    "fatPercent": 33,
+    "pdoPgiStatus": "West Country Farmhouse Cheddar (PDO, for specific producers)",
+    "pairings": {
+      "wine": [
+        "Cabernet Sauvignon",
+        "Syrah",
+        "dry cider"
+      ],
+      "beer": [
+        "IPA",
+        "ESB"
+      ],
+      "fruit": [
+        "apple",
+        "chutney"
+      ],
+      "bread": [
+        "wholegrain bread",
+        "crackers"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Wrap in parchment then resealable bag; refrigerate.",
+    "servingSuggestions": "Serve with pickles; grate into soups; great for grilled cheese."
+  },
+  {
+    "id": "gouda-aged",
+    "name": "Aged Gouda",
+    "country": "Netherlands",
+    "region": "South Holland (style widely made)",
+    "milkType": "Cow",
+    "texture": "Hard",
+    "agingTime": "12–24 months",
+    "flavorNotes": [
+      "butterscotch",
+      "toffee",
+      "nutty",
+      "salty crystals"
+    ],
+    "aroma": "caramel, toasted nuts",
+    "rindType": "Waxed or natural (varies)",
+    "pasteType": "Washed curd",
+    "fatPercent": 31,
+    "pdoPgiStatus": null,
+    "pairings": {
+      "wine": [
+        "Oloroso sherry",
+        "Chardonnay",
+        "Pinot Noir"
+      ],
+      "beer": [
+        "dubbel",
+        "bock"
+      ],
+      "fruit": [
+        "apple",
+        "dried apricot"
+      ],
+      "bread": [
+        "rye bread",
+        "seeded crackers"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Keep wrapped; refrigerate. If waxed, rewrap the cut surface.",
+    "servingSuggestions": "Shave into salads; pair with mustard; serve with dark bread and beer."
+  },
+  {
+    "id": "edam",
+    "name": "Edam",
+    "country": "Netherlands",
+    "region": "North Holland",
+    "milkType": "Cow",
+    "texture": "Semi-hard",
+    "agingTime": "4–12 weeks (young), longer for aged",
+    "flavorNotes": [
+      "mild",
+      "slightly nutty",
+      "creamy"
+    ],
+    "aroma": "clean, milky",
+    "rindType": "Waxed (traditional red)",
+    "pasteType": "Pressed",
+    "fatPercent": 28,
+    "pdoPgiStatus": null,
+    "pairings": {
+      "wine": [
+        "Sauvignon Blanc",
+        "light Pinot Noir"
+      ],
+      "beer": [
+        "pilsner",
+        "blond ale"
+      ],
+      "fruit": [
+        "grapes",
+        "apple"
+      ],
+      "bread": [
+        "sandwich bread",
+        "crackers"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Wrap cut surfaces; refrigerate.",
+    "servingSuggestions": "Cube for snack boards; melt into omelets; pair with fresh fruit."
+  },
+  {
+    "id": "manchego",
+    "name": "Manchego",
+    "country": "Spain",
+    "region": "La Mancha",
+    "milkType": "Sheep",
+    "texture": "Semi-hard",
+    "agingTime": "2–12 months",
+    "flavorNotes": [
+      "nutty",
+      "buttery",
+      "herbal",
+      "sweet finish"
+    ],
+    "aroma": "lanolin, roasted nuts",
+    "rindType": "Natural (often with herringbone pattern)",
+    "pasteType": "Pressed",
+    "fatPercent": 33,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Tempranillo",
+        "Rioja Crianza",
+        "dry sherry"
+      ],
+      "beer": [
+        "amber lager",
+        "Spanish lager"
+      ],
+      "fruit": [
+        "quince paste",
+        "fig"
+      ],
+      "bread": [
+        "rustic bread",
+        "crackers"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Wrap and refrigerate; bring to room temp before serving.",
+    "servingSuggestions": "Serve with membrillo; shave over greens; pair with Marcona almonds."
+  },
+  {
+    "id": "feta",
+    "name": "Feta",
+    "country": "Greece",
+    "region": "Various (traditional)",
+    "milkType": "Mixed",
+    "texture": "Fresh",
+    "agingTime": "2+ months in brine",
+    "flavorNotes": [
+      "salty",
+      "tangy",
+      "bright",
+      "crumbly"
+    ],
+    "aroma": "briny, lactic",
+    "rindType": "None",
+    "pasteType": "Brined",
+    "fatPercent": 25,
+    "pdoPgiStatus": "PDO (Greek Feta)",
+    "pairings": {
+      "wine": [
+        "Assyrtiko",
+        "rosé"
+      ],
+      "beer": [
+        "lager",
+        "wheat beer"
+      ],
+      "fruit": [
+        "watermelon",
+        "tomato"
+      ],
+      "bread": [
+        "pita",
+        "olive bread"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Keep in brine; refrigerate. If too salty, soak briefly in water or milk.",
+    "servingSuggestions": "Crumble over salads; bake with tomatoes and oregano; pair with olives."
+  },
+  {
+    "id": "halloumi",
+    "name": "Halloumi",
+    "country": "Cyprus",
+    "region": "Cyprus",
+    "milkType": "Mixed",
+    "texture": "Semi-hard",
+    "agingTime": "Fresh to a few weeks (often in brine)",
+    "flavorNotes": [
+      "salty",
+      "milky",
+      "minty (sometimes)",
+      "squeaky"
+    ],
+    "aroma": "briny, fresh",
+    "rindType": "None",
+    "pasteType": "Heat-treated curd",
+    "fatPercent": 26,
+    "pdoPgiStatus": "PDO (Halloumi/Hellim)",
+    "pairings": {
+      "wine": [
+        "dry rosé",
+        "Sauvignon Blanc"
+      ],
+      "beer": [
+        "pilsner",
+        "kölsch"
+      ],
+      "fruit": [
+        "watermelon",
+        "grilled peach"
+      ],
+      "bread": [
+        "flatbread",
+        "pita"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Refrigerate in its pack/brine; keep tightly sealed.",
+    "servingSuggestions": "Grill or pan-sear; add to salads; serve with lemon and herbs."
+  },
+  {
+    "id": "gruyere",
+    "name": "Gruyère",
+    "country": "Switzerland",
+    "region": "Fribourg (and nearby)",
+    "milkType": "Cow",
+    "texture": "Hard",
+    "agingTime": "5–12 months",
+    "flavorNotes": [
+      "nutty",
+      "savory",
+      "slightly sweet",
+      "brothy"
+    ],
+    "aroma": "toasted nuts, hay",
+    "rindType": "Natural (washed during aging)",
+    "pasteType": "Cooked, pressed",
+    "fatPercent": 32,
+    "pdoPgiStatus": "AOP (PDO equivalent)",
+    "pairings": {
+      "wine": [
+        "Chasselas",
+        "Pinot Noir"
+      ],
+      "beer": [
+        "amber ale",
+        "bock"
+      ],
+      "fruit": [
+        "pear",
+        "apple"
+      ],
+      "bread": [
+        "baguette",
+        "rye"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Wrap and refrigerate; keep cut side covered.",
+    "servingSuggestions": "Classic for fondue; melt on onion soup; great in quiche."
+  },
+  {
+    "id": "emmental",
+    "name": "Emmental",
+    "country": "Switzerland",
+    "region": "Emmental",
+    "milkType": "Cow",
+    "texture": "Hard",
+    "agingTime": "4–12 months",
+    "flavorNotes": [
+      "mild",
+      "nutty",
+      "slightly fruity"
+    ],
+    "aroma": "sweet hay",
+    "rindType": "Natural",
+    "pasteType": "Cooked, pressed (eyes)",
+    "fatPercent": 31,
+    "pdoPgiStatus": "AOP (some Emmentaler variants)",
+    "pairings": {
+      "wine": [
+        "dry white wine",
+        "light red"
+      ],
+      "beer": [
+        "lager",
+        "märzen"
+      ],
+      "fruit": [
+        "grapes",
+        "apple"
+      ],
+      "bread": [
+        "pretzel",
+        "country loaf"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Wrap and refrigerate.",
+    "servingSuggestions": "Melt in sandwiches; cube for aperitif; use in gratins."
+  },
+  {
+    "id": "comte",
+    "name": "Comté",
+    "country": "France",
+    "region": "Franche-Comté",
+    "milkType": "Cow",
+    "texture": "Hard",
+    "agingTime": "8–24 months",
+    "flavorNotes": [
+      "hazelnut",
+      "butter",
+      "broth",
+      "dried fruit"
+    ],
+    "aroma": "toasted nuts, cellar",
+    "rindType": "Natural",
+    "pasteType": "Cooked, pressed",
+    "fatPercent": 32,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Vin Jaune",
+        "Chardonnay",
+        "Savagnin"
+      ],
+      "beer": [
+        "saison",
+        "amber ale"
+      ],
+      "fruit": [
+        "apple",
+        "dried apricot"
+      ],
+      "bread": [
+        "baguette",
+        "nut bread"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Wrap and refrigerate.",
+    "servingSuggestions": "Shave for snacks; melt in croque monsieur; pair with nuts and wine."
+  },
+  {
+    "id": "taleggio",
+    "name": "Taleggio",
+    "country": "Italy",
+    "region": "Lombardy",
+    "milkType": "Cow",
+    "texture": "Semi-soft",
+    "agingTime": "35–50 days",
+    "flavorNotes": [
+      "buttery",
+      "meaty",
+      "tangy",
+      "earthy"
+    ],
+    "aroma": "pungent, yeasty",
+    "rindType": "Washed rind",
+    "pasteType": "Soft, smear-ripened",
+    "fatPercent": 30,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Barbera",
+        "Pinot Grigio"
+      ],
+      "beer": [
+        "amber ale",
+        "Belgian dubbel"
+      ],
+      "fruit": [
+        "pear",
+        "grapes"
+      ],
+      "bread": [
+        "ciabatta",
+        "polenta"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Keep wrapped; refrigerate. Strong aroma—store separately.",
+    "servingSuggestions": "Melt into risotto; top pizza; serve with pears and walnuts."
+  },
+  {
+    "id": "raclette",
+    "name": "Raclette",
+    "country": "Switzerland",
+    "region": "Valais (style widely made)",
+    "milkType": "Cow",
+    "texture": "Semi-hard",
+    "agingTime": "3–6 months",
+    "flavorNotes": [
+      "buttery",
+      "savory",
+      "slightly funky",
+      "smoky when melted"
+    ],
+    "aroma": "washed-rind, nutty",
+    "rindType": "Washed rind",
+    "pasteType": "Semi-firm",
+    "fatPercent": 30,
+    "pdoPgiStatus": null,
+    "pairings": {
+      "wine": [
+        "dry white wine",
+        "Fendant/Chasselas"
+      ],
+      "beer": [
+        "lager",
+        "amber ale"
+      ],
+      "fruit": [
+        "pickles",
+        "onion"
+      ],
+      "bread": [
+        "boiled potatoes",
+        "country bread"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Wrap and refrigerate.",
+    "servingSuggestions": "Melt and scrape over potatoes; serve with cornichons and cured meats."
+  },
+  {
+    "id": "stilton",
+    "name": "Stilton",
+    "country": "United Kingdom",
+    "region": "Derbyshire/Leicestershire/Nottinghamshire",
+    "milkType": "Cow",
+    "texture": "Blue",
+    "agingTime": "9–12 weeks",
+    "flavorNotes": [
+      "creamy",
+      "salty",
+      "complex blue",
+      "slightly sweet"
+    ],
+    "aroma": "rich, blue, cellar",
+    "rindType": "Natural",
+    "pasteType": "Blue-veined",
+    "fatPercent": 35,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Port",
+        "Madeira"
+      ],
+      "beer": [
+        "stout",
+        "barleywine"
+      ],
+      "fruit": [
+        "pear",
+        "grapes",
+        "fig"
+      ],
+      "bread": [
+        "oatcakes",
+        "walnut bread"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Wrap in foil; refrigerate. Keep away from mild cheeses.",
+    "servingSuggestions": "Crumble over steak; serve with celery and port; blend into dips."
+  },
+  {
+    "id": "chevre-sainte-maure",
+    "name": "Sainte-Maure de Touraine",
+    "country": "France",
+    "region": "Loire Valley",
+    "milkType": "Goat",
+    "texture": "Soft",
+    "agingTime": "2–6 weeks",
+    "flavorNotes": [
+      "tangy",
+      "lemony",
+      "earthy",
+      "nutty when aged"
+    ],
+    "aroma": "goaty, fresh hay",
+    "rindType": "Ash-coated bloomy rind",
+    "pasteType": "Lactic-set",
+    "fatPercent": 27,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Sancerre",
+        "Sauvignon Blanc"
+      ],
+      "beer": [
+        "saison",
+        "wheat beer"
+      ],
+      "fruit": [
+        "apple",
+        "grapes"
+      ],
+      "bread": [
+        "baguette",
+        "seeded crackers"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Wrap in paper; refrigerate. Flavor intensifies with age.",
+    "servingSuggestions": "Slice onto salads; serve with Loire whites; drizzle with honey."
+  },
+  {
+    "id": "monterey-jack",
+    "name": "Monterey Jack",
+    "country": "United States",
+    "region": "California",
+    "milkType": "Cow",
+    "texture": "Semi-soft",
+    "agingTime": "1–3 months",
+    "flavorNotes": [
+      "mild",
+      "buttery",
+      "slightly tangy"
+    ],
+    "aroma": "clean dairy",
+    "rindType": "None or thin rind",
+    "pasteType": "Pressed",
+    "fatPercent": 30,
+    "pdoPgiStatus": null,
+    "pairings": {
+      "wine": [
+        "Zinfandel rosé",
+        "Chardonnay"
+      ],
+      "beer": [
+        "pale ale",
+        "lager"
+      ],
+      "fruit": [
+        "apple",
+        "jalapeño (pepper jack variant)"
+      ],
+      "bread": [
+        "tortillas",
+        "sandwich bread"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Wrap and refrigerate.",
+    "servingSuggestions": "Melt in quesadillas; shred for tacos; great for mac and cheese."
+  },
+  {
+    "id": "havarti",
+    "name": "Havarti",
+    "country": "Denmark",
+    "region": "Denmark",
+    "milkType": "Cow",
+    "texture": "Semi-soft",
+    "agingTime": "3 months (varies)",
+    "flavorNotes": [
+      "buttery",
+      "mild",
+      "slightly sweet"
+    ],
+    "aroma": "fresh and creamy",
+    "rindType": "Washed or waxed (varies)",
+    "pasteType": "Semi-soft",
+    "fatPercent": 30,
+    "pdoPgiStatus": null,
+    "pairings": {
+      "wine": [
+        "Riesling (dry)",
+        "Chardonnay"
+      ],
+      "beer": [
+        "kölsch",
+        "pilsner"
+      ],
+      "fruit": [
+        "grapes",
+        "pear"
+      ],
+      "bread": [
+        "rye bread",
+        "crackers"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Depends",
+    "storage": "Wrap and refrigerate.",
+    "servingSuggestions": "Layer in sandwiches; melt on burgers; cube for snack plates."
+  },
+  {
+    "id": "sbrinz",
+    "name": "Sbrinz",
+    "country": "Switzerland",
+    "region": "Central Switzerland",
+    "milkType": "Cow",
+    "texture": "Hard",
+    "agingTime": "18–36 months",
+    "flavorNotes": [
+      "very nutty",
+      "umami",
+      "caramel",
+      "salty crystals"
+    ],
+    "aroma": "toasted nuts",
+    "rindType": "Natural",
+    "pasteType": "Cooked, pressed",
+    "fatPercent": 35,
+    "pdoPgiStatus": "AOP (PDO equivalent)",
+    "pairings": {
+      "wine": [
+        "Chasselas",
+        "dry Riesling"
+      ],
+      "beer": [
+        "bock",
+        "amber ale"
+      ],
+      "fruit": [
+        "pear",
+        "grapes"
+      ],
+      "bread": [
+        "dark bread",
+        "crackers"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Wrap and refrigerate.",
+    "servingSuggestions": "Break into shards; grate like parmesan; pair with nuts and apples."
+  },
+  {
+    "id": "reblochon",
+    "name": "Reblochon",
+    "country": "France",
+    "region": "Savoie",
+    "milkType": "Cow",
+    "texture": "Semi-soft",
+    "agingTime": "4–8 weeks",
+    "flavorNotes": [
+      "buttery",
+      "nutty",
+      "earthy",
+      "slightly barnyard"
+    ],
+    "aroma": "washed-rind funk",
+    "rindType": "Washed rind",
+    "pasteType": "Soft, smear-ripened",
+    "fatPercent": 28,
+    "pdoPgiStatus": "PDO",
+    "pairings": {
+      "wine": [
+        "Apremont",
+        "Jacquère"
+      ],
+      "beer": [
+        "amber ale",
+        "saison"
+      ],
+      "fruit": [
+        "pear",
+        "apple"
+      ],
+      "bread": [
+        "country loaf",
+        "potatoes"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "vegetarianSuitability": "Not vegetarian",
+    "storage": "Wrap and refrigerate; serve at room temperature.",
+    "servingSuggestions": "Essential for tartiflette; melt on potatoes; serve with charcuterie."
+  }
+]

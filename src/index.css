@@ -1,0 +1,244 @@
+:root {
+  --bg: #f6f7f8;
+  --panel: #ffffff;
+  --text: #111214;
+  --muted: #6b7280;
+  --border: rgba(17, 18, 20, 0.10);
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji';
+  line-height: 1.35;
+  font-weight: 400;
+  color: var(--text);
+  background: var(--bg);
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a.link {
+  color: #111214;
+  text-decoration: underline;
+  text-decoration-color: rgba(17, 18, 20, 0.25);
+  text-underline-offset: 3px;
+}
+
+a.link:hover {
+  text-decoration-color: rgba(17, 18, 20, 0.45);
+}
+
+.page {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 28px 20px 48px;
+}
+
+.header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 14px 0 22px;
+}
+
+.title {
+  margin: 0;
+  font-size: 34px;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+.muted {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.controls {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  padding: 14px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(10px);
+}
+
+.field {
+  display: grid;
+  gap: 8px;
+  min-width: 180px;
+}
+
+.fieldGrow {
+  flex: 1;
+  min-width: 260px;
+}
+
+.fieldLabel {
+  color: var(--muted);
+  font-size: 12px;
+  letter-spacing: 0.02em;
+}
+
+.input,
+.select {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: var(--panel);
+  color: var(--text);
+  outline: none;
+}
+
+.input:focus,
+.select:focus {
+  border-color: rgba(17, 18, 20, 0.22);
+  box-shadow: 0 0 0 4px rgba(17, 18, 20, 0.06);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  padding-top: 16px;
+}
+
+@media (max-width: 920px) {
+  .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 600px) {
+  .grid { grid-template-columns: 1fr; }
+}
+
+.cardLink {
+  display: block;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 14px;
+  box-shadow: var(--shadow);
+  transition: transform 140ms ease, border-color 140ms ease;
+}
+
+.cardLink:hover .card {
+  transform: translateY(-1px);
+  border-color: rgba(17, 18, 20, 0.16);
+}
+
+.cardHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.cardTitle {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.cardSubtitle {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.cardBody {
+  padding-top: 10px;
+}
+
+.tagRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding-top: 12px;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  height: 26px;
+  padding: 0 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 12px;
+  color: rgba(17, 18, 20, 0.78);
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.footer {
+  padding-top: 18px;
+}
+
+.detailGrid {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 14px;
+}
+
+@media (max-width: 900px) {
+  .detailGrid { grid-template-columns: 1fr; }
+}
+
+.sectionTitle {
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(17, 18, 20, 0.72);
+  margin-bottom: 10px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 14px;
+  padding: 10px 0;
+  border-top: 1px solid rgba(17, 18, 20, 0.06);
+}
+
+.row:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.rowLabel {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.rowValue {
+  font-size: 14px;
+  color: var(--text);
+}
+
+.list {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.list li { margin: 4px 0; }
