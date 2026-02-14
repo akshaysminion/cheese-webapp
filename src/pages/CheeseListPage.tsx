@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { AnimatedNumber } from '../components/AnimatedNumber';
 import { Card } from '../components/Card';
-import { CheeseHero3D } from '../components/CheeseHero3D';
+import { LazyCheeseHero3D } from '../components/LazyCheeseHero3D';
 import { SearchInput } from '../components/SearchInput';
 import { Select } from '../components/Select';
 import { Tag } from '../components/Tag';
@@ -74,7 +74,7 @@ export function CheeseListPage() {
         </div>
       </header>
 
-      <CheeseHero3D />
+      <LazyCheeseHero3D />
 
       <div className="controls">
         <SearchInput value={query} onChange={setQuery} placeholder="Name, region, pairings…" />

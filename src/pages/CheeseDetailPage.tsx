@@ -1,6 +1,6 @@
 import { Link, useParams } from 'react-router-dom';
 import { Card } from '../components/Card';
-import { CheeseHero3D } from '../components/CheeseHero3D';
+import { LazyCheeseHero3D } from '../components/LazyCheeseHero3D';
 import { Tag } from '../components/Tag';
 import { getCheeseById } from '../lib/cheeseData';
 
@@ -59,7 +59,7 @@ export function CheeseDetailPage() {
         </Link>
       </header>
 
-      <CheeseHero3D compact />
+      <LazyCheeseHero3D compact />
 
       <div className="detailGrid">
         <Card>
